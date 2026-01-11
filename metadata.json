@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RÁDIO CAPITAL DO TOMATE 2026",
+  "description": "O app oficial da Rádio Capital do Tomate de Reserva-PR. Sintonize no melhor da música sertaneja, forró e participe com o Tomatinho!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
